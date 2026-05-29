@@ -1,0 +1,31 @@
+/* Configurações Gerais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: #333;
+    line-height: 1.6;
+    background-color: #fafdfa;
+}
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.text-center { text-align: center; }
+.section-padding { padding: 60px 0; }
+.bg-light { background-color: #eef7ee; }
+
+.section-title {
+    text-align: center;
+    font-size: 2rem
